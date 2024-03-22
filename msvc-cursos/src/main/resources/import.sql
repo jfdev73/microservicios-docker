@@ -1,0 +1,1 @@
+INSERT INTO cursos (nombre) VALUES ('Spring boot'), ('Angular'), ('React'), ('Docker');
